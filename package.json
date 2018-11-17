@@ -1,6 +1,6 @@
 {
   "name": "without-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "remove unused props or object parameters",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,12 @@
     "without-props"
   ],
   "files": [
-    "libs"
+    "lib"
   ],
   "author": "She Ailun",
   "license": "MIT",
   "homepage": "https://github.com/jf3096/without-props.git",
+  "types": "typings.d.ts",
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
