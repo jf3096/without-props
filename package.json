@@ -1,6 +1,6 @@
 {
   "name": "without-props",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "remove unused props or object parameters",
   "main": "index.js",
   "scripts": {
