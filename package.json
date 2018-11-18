@@ -2,7 +2,7 @@
   "name": "without-props",
   "version": "1.0.1",
   "description": "remove unused props or object parameters",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel src/index.js --out-file lib/index.js"
   },
